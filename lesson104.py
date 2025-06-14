@@ -3,8 +3,6 @@
 # we are going to do this with variables like a
 a = 158
 b = 200
-# Now we got the variables ready, we got two options
+# Now we got the variables ready
 print(a + b)
-# Or use another variable
-c = a + b
-print(c)
+# Reminder that putting a quote just puts it as text
